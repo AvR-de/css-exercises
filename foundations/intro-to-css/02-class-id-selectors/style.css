@@ -1,0 +1,9 @@
+.pink {
+    color: black;
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.pink .cool {
+    font-size: 24px;
+}

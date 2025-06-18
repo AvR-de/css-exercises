@@ -1,9 +1,21 @@
-.pink {
+.pink,
+.cool {
     color: black;
     background-color: pink;
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-.pink .cool {
+.cool {
     font-size: 24px;
+}
+
+#blue {
+    color: blue;
+    font-size: 36px;
+}
+
+#green {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
 }
